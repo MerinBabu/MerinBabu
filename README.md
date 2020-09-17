@@ -5,7 +5,7 @@
 **MerinBabu/MerinBabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently exploring Machine Learning and its applications on healthcare.
+- 🌱 I’m currently exploring Machine Learning and its applications in healthcare.
 - 👯 Looking forward to experiment with design and everything beautiful (if you know what I mean).
 - :dart: Mission 2020: Contribute to open source and work on some exciting projects :fire: .
 - :microscope: Always open to interdisciplinary research opportunities.
