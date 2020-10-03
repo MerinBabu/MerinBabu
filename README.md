@@ -9,7 +9,7 @@
 - 👯 Looking forward to experiment with design and everything beautiful (if you know what I mean).
 - :dart: Mission 2020: Contribute to open source and work on some exciting projects :fire: .
 - :microscope: Always open to interdisciplinary research opportunities.
-- ⚡ Fun fact: I love creative writing and reading about international relations in my free time !
+- ⚡ Fun fact: I love creative writing and reading about international relations and gender studies in my free time !
 - 📫 Feel free to reach out to me on my social media handles:
    
    <a href="https://www.linkedin.com/in/merin-babu/">
