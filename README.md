@@ -8,7 +8,7 @@
 - 🌱 I’m currently exploring Machine Learning and its applications in healthcare.
 - 👯 Looking forward to experiment with design and web development.
 - :microscope: Always open to interdisciplinary research opportunities.
-- ⚡ Fun fact: I love creative writing and reading about international relations and gender studies in my free time !
+- ⚡ Fun fact: I love creative writing and reading fiction in my free time !
 - 📫 Feel free to reach out to me on my social media handles:
    
    <a href="https://www.linkedin.com/in/merin-babu/">
